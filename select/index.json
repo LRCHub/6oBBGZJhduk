@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "サイレント・ヴォイス",
+  "base_artist": "ひろえ純",
+  "createdAt": "2025-12-08T10:51:58.489039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス",
+      "artist": "ひろえ純",
+      "has_synced": true,
+      "path": "select/01_サイレント・ヴォイス_ひろえ純.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス",
+      "artist": "Jun Hiroe",
+      "has_synced": true,
+      "path": "select/02_サイレント・ヴォイス_Jun_Hiroe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス / with 寺井尚子",
+      "artist": "Hiroko Moriguchi feat. Naoko Terai",
+      "has_synced": false,
+      "path": "select/03_サイレント・ヴォイス___with_寺井尚子_Hiroko_Moriguchi_feat._Naoko_Terai.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス",
+      "artist": "森口博子 with 寺井尚子",
+      "has_synced": false,
+      "path": "select/04_サイレント・ヴォイス_森口博子_with_寺井尚子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス (機動戦士ガンダムZZ)",
+      "artist": "Apple Pie",
+      "has_synced": false,
+      "path": "select/05_サイレント・ヴォイス_(機動戦士ガンダムZZ)_Apple_Pie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス",
+      "artist": "ひろえ純",
+      "has_synced": true,
+      "path": "select/06_サイレント・ヴォイス_ひろえ純.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サイレント・ヴォイス / with 寺井尚子",
+      "artist": "森口博子",
+      "has_synced": false,
+      "path": "select/07_サイレント・ヴォイス___with_寺井尚子_森口博子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイレント・ヴォイス",
+      "artist": "ひろえ純",
+      "has_synced": false,
+      "path": "select/pl_01_サイレント・ヴォイス_ひろえ純.txt"
+    }
+  ]
+}
